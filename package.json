@@ -13,5 +13,8 @@
   "devDependencies": {
     "cypress": "^13.7.3",
     "cypress-mochawesome-reporter": "^5.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9"
   }
 }

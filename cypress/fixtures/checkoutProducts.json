@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "item": "Blue Top",
+      "description": "Women > Tops",
+      "price": "Rs. 500",
+      "quantity": "1",
+      "total": "Rs. 500"
+    },
+    {
+      "item": "Men Tshirt",
+      "description": "Men > Tshirts",
+      "price": "Rs. 400",
+      "quantity": "1",
+      "total": "Rs. 400"
+    },
+    {
+      "item": "Sleeveless Dress",
+      "description": "Women > Dress",
+      "price": "Rs. 1000",
+      "quantity": "1",
+      "total": "Rs. 1000"
+    },
+    {
+      "item": "Stylish Dress",
+      "description": "Women > Dress",
+      "price": "Rs. 1500",
+      "quantity": "1",
+      "total": "Rs. 1500"
+    },
+    {
+      "item": "Winter Top",
+      "description": "Women > Tops",
+      "price": "Rs. 600",
+      "quantity": "1",
+      "total": "Rs. 600"
+    }
+  ],
+  "totalAmount": "Rs. 4000"
+}

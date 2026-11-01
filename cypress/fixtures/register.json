@@ -1,0 +1,20 @@
+{
+  "name": "Carlos Santos",
+  "email": "",
+  "password": "123456",
+  "dateOfBirth": {
+    "day": "23",
+    "month": "April",
+    "year": "2003"
+  },
+  "firstName": "Carlos",
+  "lastName": "Santos",
+  "company": "Carlos Santos Ltda",
+  "address": "Rua dos Testes 404",
+  "address2": "Rua dos Bugs 404",
+  "country": "United States",
+  "state": "State of Bugs",
+  "city": "Buglândia",
+  "zipcode": "12345678",
+  "mobileNumber": "11999999999"
+}

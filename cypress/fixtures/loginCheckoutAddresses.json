@@ -1,0 +1,12 @@
+{
+  "firstName": "Carlos",
+  "lastName": "Henrique",
+  "company": "Company test",
+  "address": "Address test",
+  "address2": "Address 2 test",
+  "country": "Canada",
+  "state": "State test",
+  "city": "City test",
+  "zipcode": "12345678",
+  "mobileNumber": "11999999999"
+}

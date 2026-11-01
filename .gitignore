@@ -2,3 +2,5 @@ node_modules/
 log/
 results/
 npm_install_debug.log
+.env
+cypress/reports
