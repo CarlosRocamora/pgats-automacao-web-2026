@@ -23,6 +23,7 @@ jobs:
       - name: Executando os testes
         run: npx cypress run
         env:
+          CYPRESS_BASE_URL: ${{ secrets.CYPRESS_BASE_URL }}
           CYPRESS_userEmail: ${{ secrets.CYPRESS_USER_EMAIL }}
           CYPRESS_userPassword: ${{ secrets.CYPRESS_USER_PASSWORD }}
           CYPRESS_userName: ${{ secrets.CYPRESS_USER_NAME }}
